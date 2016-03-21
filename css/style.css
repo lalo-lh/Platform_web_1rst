@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+	font-family: ;
+}
+
+.marco {
+	display: none;
+	padding-top: 10px;
+	background-image: url('../imgs/luna.jpg');
+	background-size: 100% 100%;
+	width: 960px;
+	height: 500px;
+	text-align: center;
+}
+
+.texto h1{
+	font-family: 'Istok Web', sans-serif;
+	font-size: 300%;
+}
+
+.btn {
+	background-color: white;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+}
+.btn:hover {
+	color:white;
+	background-color:blue;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.presentacion {
+	float: right ;
+}
+
+.texto {
+	
+	display: inline-block;
+}
+
+.texto button{
+	margin-bottom: 50px;
+}
