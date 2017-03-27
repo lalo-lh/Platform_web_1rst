@@ -128,7 +128,7 @@ function nivelUno(){
 	grupoAssets.add(new Moneda(1030,stage.getHeight()/3-130,imgMon));
 	grupoAssets.add(new Moneda(1600,stage.getHeight()/3.6,imgMon));
 
-	grupoAssets.add(new Puerta(900,stage.getHeight()-85,imgPuer));
+	grupoAssets.add(new Puerta(900,stage.getHeight()-95,imgPuer));
 
 	personaje = new Heroe(imgHer,framesP);
 	personaje.setX(0);
